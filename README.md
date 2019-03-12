@@ -2,7 +2,7 @@
 
 Some SVG filters-powered distortion effects shown on images when hovering a link.
 
-![Image Title](link)
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2019/03/SVGFilterHover01.2019-03-12-17_25_08.gif)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=38971)
 
